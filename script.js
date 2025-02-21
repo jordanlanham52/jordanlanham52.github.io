@@ -1,4 +1,4 @@
-const introText = "Welcome to my cyber domain...\n> Initializing...\n> Access Granted!";
+const introText = "Welcome to my cyber domain... \n > Initializing... \n > Access Granted!";
 let i = 0;
 const speed = 50; 
 
