@@ -3,6 +3,7 @@ const introText = [
     "> Initializing...",
     "> Access Granted!"
 ];
+let i = 0;
 const speed = 50; 
 
 function typeEffect() {
